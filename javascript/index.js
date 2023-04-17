@@ -44,8 +44,6 @@ getInstruction("mashedPotatoes", 0, (step1) => {
 // }
 // makeMashedPotatoes();
 
-// Iteration 1 - using callbacks
-// ...
 
 // Iteration 2 - using promises
 
